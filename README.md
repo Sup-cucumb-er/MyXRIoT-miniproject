@@ -10,4 +10,4 @@ Putting your IP address into the IP textbox will tells OneM2M where you are and 
 ![螢幕擷取畫面 2024-01-07 212943](https://github.com/Sup-cucumb-er/Mini-Project-of-myXRIoT/assets/92028905/2b2f8b0e-02de-42d1-ab0d-55753de76c52)
 The Resource tree records the data that was sent. Here is the MN-CSE resource tree, you can see the Attribute is "Red" and the Value is "3". 
 # Installation
-Because it is still creating, the package isn't available. However,the android apk is ready. 
+Via the aid of the aid of notion wensite (https://abounding-monkey-e51.notion.site/OM2M-d07323a8e2c047d88b9ef74c47fd5d77) , you can eventually create your own onem2m website.
