@@ -15,7 +15,7 @@ After the game started, the balls are initially unvisible. The scripts can read 
 ### The Android app
 ![螢幕擷取畫面 2024-09-12 115550](https://github.com/user-attachments/assets/e1473ee7-fd3f-4694-9352-d621c0826d30)
 
-Putting your IP address into the IP textbox will tells OneM2M where you are and creates a repository for your data. After showing your IP address below, you can type in a number representing the ball color. When you send out your newColorValue, it will be stored inside MN-CSE resource tree.
+Place your OM2M Server IP address into the IP textbox and creates a repository for your data. After showing your IP address below, you can type in a number representing the ball color. When you send out your newColorValue, it will be stored inside MN-CSE resource tree.
 
 ### OneM2M Resource Tree
 ![螢幕擷取畫面 2024-09-12 115958](https://github.com/user-attachments/assets/3fc4d0fd-dacb-40fb-a300-5555a14d6370)
