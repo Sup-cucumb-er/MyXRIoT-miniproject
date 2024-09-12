@@ -6,16 +6,16 @@ The mini project of MyXRIoT is dedicated to make an example of combining Unity, 
 ### The Unity Scene
 ![螢幕擷取畫面 2024-01-07 203602](https://github.com/Sup-cucumb-er/Mini-Project-of-myXRIoT/assets/92028905/2c775589-0dd8-4b69-9651-cc489ae2be1e)
 
-[Tab]Fig1. The three colors are yellow, blue, and red with the value 1, 2, and 3. If the android app sent value 1, the scene only shows the yellow ball.
+> Fig1. The three colors are yellow, blue, and red with the value 1, 2, and 3. If the android app sent value 1, the scene only shows the yellow ball.
 
 ![螢幕擷取畫面 2024-09-12 115354](https://github.com/user-attachments/assets/ab3f73bf-c5c4-4f81-8624-b75c9cc84292)
 
-[Tab]Fig2. After the game started, the balls are initially unvisible. The scripts can read the value from OM2M and make a correspond ball be visible.
+> Fig2. After the game started, the balls are initially unvisible. The scripts can read the value from OM2M and make a correspond ball be visible.
 
 ### The Android app
 ![螢幕擷取畫面 2024-09-12 115550](https://github.com/user-attachments/assets/e1473ee7-fd3f-4694-9352-d621c0826d30)
 
-[Tab]Fig3. First, place your OM2M Server IP address into the IP textbox and press Enter.<br>
+> Fig3. First, place your OM2M Server IP address into the IP textbox and press Enter.<br>
      After showing your IP address below, you can type in a value representing the ball color.<br>
      As soon as you send your value, it will be stored inside the OM2M resource tree.<br>
 
