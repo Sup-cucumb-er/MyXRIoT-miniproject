@@ -3,7 +3,7 @@ The mini project of MyXRIoT is dedicated to make an example of combining Unity, 
 
 ## Functions
 ### Video
-{%youtube tNjy2agyhAs %}
+<video src="https://youtu.be/tNjy2agyhAs"></video>
 ### The Unity Scene
 ![螢幕擷取畫面 2024-01-07 203602](https://github.com/Sup-cucumb-er/Mini-Project-of-myXRIoT/assets/92028905/2c775589-0dd8-4b69-9651-cc489ae2be1e)
 
